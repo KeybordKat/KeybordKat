@@ -1,6 +1,6 @@
 # Sonia Szetela  
 
-*Computer Science student with a focus on AI, software development, and emerging technologies*  
+*Computer Science student with a focus on AI, software development, and emerging technologies, especially interested in the development of AI agents*  
 
 **BSc Computer Science with AI, University of York (2024–2027)**  
 President, University of York Artificial Intelligence Society  
