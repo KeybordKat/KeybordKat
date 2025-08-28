@@ -1,6 +1,6 @@
 # Sonia Szetela  
 
-*Computer Science student with a focus on AI, software development, and emerging technologies, especially interested in the development of AI agents*  
+*Computer Science student with a focus on AI, software development, and emerging technologies*  
 
 **BSc Computer Science with AI, University of York (2024–2027)**  
 President, University of York Artificial Intelligence Society  
@@ -10,10 +10,10 @@ President, University of York Artificial Intelligence Society
 ## Skills  
 
 - **Languages:** Java, Python, Kotlin, HTML, CSS (basic)  
-- **Tools:** Git/GitHub, IntelliJ, PyCharm, Android Studio, VS Code, Figma, Notion  
+- **Tools:** Git/GitHub, IntelliJ, PyCharm, Android Studio, VS Code, Figma, Notion, Ollama, Jupyter notebook  
 - **Other:** Machine learning (Python), data processing, UI/UX fundamentals  
 
-**Interests:** Machine learning, data science, financial technologies  
+**Interests:** Machine learning, data science, financial technologies, and AI agents  
 
 ---
 
