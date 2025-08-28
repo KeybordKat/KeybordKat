@@ -32,6 +32,21 @@ President, University of York Artificial Intelligence Society
 
 ---
 
+## Education  
+
+**University of York** — *BSc Computer Science with AI*  
+**Sept 2024 – July 2027**  
+- President of the University of York Artificial Intelligence Society  
+- Planned and organised a talk with Hannah Maude at Fire Up Skills on *AI Adoption & Business Application* with case studies including Nike & Ocado Group  
+
+**Westside Comprehensive School** — *A-levels*  
+**Sept 2018 – July 2024**  
+- Mathematics — A*  
+- Chemistry — A  
+- Physics — A  
+
+---
+
 ## Awards & Certifications  
 
 - Gibraltar Scholar Award (3 A’s at A-Level)  
