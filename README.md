@@ -9,11 +9,11 @@ President, University of York Artificial Intelligence Society
 
 ## Skills  
 
-- **Languages:** Java, Python, Kotlin, HTML, CSS (basic)  
+- **Languages:** Java, Python, Kotlin, Javascript, HTML, CSS (basic), R
 - **Tools:** Git/GitHub, IntelliJ, PyCharm, Android Studio, VS Code, Figma, Notion, Ollama, Jupyter notebook  
 - **Other:** Machine learning (Python), data processing, UI/UX fundamentals  
 
-**Interests:** Machine learning, data science, financial technologies, and AI agents  
+**Interests:** Machine learning, UI design, data science, financial technologies, and AI agents  
 
 ---
 
