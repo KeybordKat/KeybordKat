@@ -5,6 +5,8 @@
 **BSc Computer Science with AI, University of York (2024–2027)**  
 President, University of York Artificial Intelligence Society  
 
+**Cyber Centurion IX and X finalist**
+
 ---
 
 ## Skills  
@@ -50,7 +52,6 @@ President, University of York Artificial Intelligence Society
 ## Awards & Certifications  
 
 - Gibraltar Scholar Award (3 A’s at A-Level)  
-- Cyber Centurion Finalist (2023 & 2024, Top 10/400+ teams)  
 - Duke of York Inspiring Digital Enterprise Award (Bronze & Silver)  
 - Codecademy Learn Java (Mar 2025)  
 - TryHackMe Pre Security Certificate (May 2023)  
